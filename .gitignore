@@ -1,0 +1,3 @@
+lighttpd.conf
+site/distros/
+node_modules/
